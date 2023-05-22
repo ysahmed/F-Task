@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981371646925",
+    "project_id": "f-task",
+    "storage_bucket": "f-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981371646925:android:75c40feebe41e526adca84",
+        "android_client_info": {
+          "package_name": "com.waesh.f_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981371646925-gk35mvt1bmnvmhfeff89t3b9thmodui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCUPCd-7vIyRRkz3Ceu9oAXSHST_TkVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981371646925-gk35mvt1bmnvmhfeff89t3b9thmodui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
